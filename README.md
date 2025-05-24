@@ -1,0 +1,1 @@
+# turan-gas-delete-account
